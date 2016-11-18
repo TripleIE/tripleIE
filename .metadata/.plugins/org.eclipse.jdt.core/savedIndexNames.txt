@@ -17,4 +17,3 @@ INDEX VERSION 1.126+E:\Ptriple\.metadata\.plugins\org.eclipse.jdt.core
 2153270132.index
 1416821754.index
 1851955243.index
-1702593857.index
